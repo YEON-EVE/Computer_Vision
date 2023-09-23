@@ -16,7 +16,10 @@
 
 ### Assignment 4
   - Stitching images
+    
 ![panorama_output](https://github.com/YEON-EVE/Computer_Vision/assets/69179261/0faef033-5cac-4fce-a167-0ded2f9f6bd9)
 
 ### Assignment 5
   - Playing with the CNN
+    
+![그림1](https://github.com/YEON-EVE/Computer_Vision/assets/69179261/b291af60-9953-4712-80a1-31dba2d844b3)
