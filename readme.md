@@ -4,8 +4,7 @@
 ### Assignment 1
   - sphere
   - rendering
-    
-![test](https://github.com/YEON-EVE/Computer_Vision/assets/69179261/7944b575-7ee5-4b93-b635-611b176b614d)
+    ![test](https://github.com/YEON-EVE/Computer_Vision/assets/69179261/7944b575-7ee5-4b93-b635-611b176b614d)
 
 ### Assignment 2
   - filtering
